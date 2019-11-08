@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeShift", "MakeShift\MakeShift.csproj", "{BDD4EABB-4E4B-4735-BE67-9FDDC81BAD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeShift.Tests", "MakeShift.Tests\MakeShift.Tests.csproj", "{DD2E947F-1279-4673-9048-0FC50FF1910F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD4EABB-4E4B-4735-BE67-9FDDC81BAD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD4EABB-4E4B-4735-BE67-9FDDC81BAD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD4EABB-4E4B-4735-BE67-9FDDC81BAD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD4EABB-4E4B-4735-BE67-9FDDC81BAD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2E947F-1279-4673-9048-0FC50FF1910F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2E947F-1279-4673-9048-0FC50FF1910F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2E947F-1279-4673-9048-0FC50FF1910F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2E947F-1279-4673-9048-0FC50FF1910F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8FD3672-4EE7-46B4-94CC-CBCFB82F2380}
+	EndGlobalSection
+EndGlobal
